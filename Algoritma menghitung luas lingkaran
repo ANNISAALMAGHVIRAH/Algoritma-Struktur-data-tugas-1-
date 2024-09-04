@@ -1,0 +1,8 @@
+#Input/inisiasi
+1.Phi adalah 3,14
+2.Menetapkan jari_jari lingkaran kedalam cm
+3.Menetapkan luas dalam cm²
+#Proses
+4.Hitung luas=Phi×jari_jari×jari_jari
+#Out put
+5.Tampilkan luas
